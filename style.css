@@ -42,3 +42,13 @@
     border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
+#Subscribe{
+    height: 300px;
+   align-items: center;
+}
+#Subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
